@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Article-Two</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    </head>
+    <body>
+        <div>
+            <a href="/">Home</a>
+        </div>
+        <hr/>
+        <div>
+            <h4><font face="Verdana" color="blue">Hi! This is Article-Two</font></h4>
+        </div>
+        <div>October 11, 2016</div>
+        <div>
+            <p>
+            This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two.
+            </p>
+            <p>
+            This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two.
+            </p>
+            <p>
+            This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two.
+            </p>
+            <p>
+            This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two. This is the content of Article-Two.
+            </p>
+        </div>
+    </body>
+</html>
