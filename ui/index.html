@@ -4,14 +4,30 @@
         <link href="/ui/style.css" rel="stylesheet" />
     </head>
     <body>
-        <div class="center">
-            <img src="/ui/Madi.png"/>
-        </div>
-        <br>
-        <div class="center text-big bold">
-            <h1><font color="DarkGreen"><u>Greetings!</u></font></h1>
-            Hi! I am Sunil and I have created my first webapp with IMAD Course.
-            <p><font face="Tahoma" color="DarkRed">Today is Tuesday and this is a very nice day.</font>
+        <div class="container">
+            <div class="center">
+                <img id="RSK" src="/ui/RSK.jpg"/>
+            </div>
+            <hr/>
+
+            <h3>Personal</h3>
+            <div>
+                Hi, My name is Sunil Kumar 
+            </div>
+            <hr/>
+            <h3>Professional</h3>
+            <div>
+                I work in Revenue Department. 
+            </div>
+            <hr/>
+            <div class="footer">
+                This button <button id="counter">Click Me</button> has been clicked <span id="count">0</span> time(s).
+                <hr/>
+                <input type="text" id="name" placeholder="Name"/>
+                <input type="submit" id="submit_btn" value="Submit"/>
+                <ul id="nameList">
+                </ul> 
+            </div>
         </div>
         <script type="text/javascript" src="/ui/main.js">
         </script>
